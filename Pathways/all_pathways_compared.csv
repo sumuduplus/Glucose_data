@@ -1,0 +1,176 @@
+KEGG_pathway,deep_Control abundant_initial,deep_Control abundant_final,deep_Glucose abundant_final,surface_Control abundant_final,surface_Control abundant_initial,surface_Glucose abundant_final,surface_Glucose abundant_initial,deep_Glucose abundant_initial
+" Including: Crocin biosynthesis, Ginsenoside biosynthesis, Saponin adjuvant biosynthesis, Cannabidiol biosynthesis, Mugineic acid biosynthesis, Pentagalloylglucose biosynthesis, Benzoxazinoid biosynthesis, Gramine biosynthesis, Coumarin biosynthesis, Furanocoumarin biosynthesis, Hordatine biosynthesis, Podophyllotoxin biosynthesis",1,0,0,0,0,0,0,0
+" Including: Ditryptophenaline biosynthesis, Fumiquinazoline D biosynthesis, Paerucumarin biosynthesis, Staphyloferrin B biosynthesis, Cyclooctatin biosynthesis, Lovastatin biosynthesis, Grixazone biosynthesis, Staphyloferrin A biosynthesis, Ethynylserine biosynthesis, Aerobactin biosynthesis",1,0,0,0,0,0,0,0
+" Including: Kanosamine biosynthesis, Aurachin biosynthesis, Bacilysin biosynthesis, Puromycin biosynthesis, Dapdiamides biosynthesis, Fosfomycin biosynthesis, Cremeomycin biosynthesis, Fumagillin biosynthesis, Pentalenolactone biosynthesis, Terpentecin biosynthesis, Roseoflavin biosynthesis, Cycloserine biosynthesis",1,0,0,0,0,0,0,0
+2-Oxocarboxylic acid metabolism,9,3,4,1,4,4,1,0
+ABC transporters,10,7,4,3,5,5,1,2
+AGE-RAGE signaling pathway in diabetic complications,1,0,1,0,0,1,0,0
+AMPK signaling pathway,2,0,2,0,0,1,0,0
+"Alanine, aspartate and glutamate metabolism",4,1,2,0,0,2,0,0
+Alcoholic liver disease,0,1,1,1,0,0,0,2
+Alcoholism,2,2,1,1,1,1,0,1
+Amino sugar and nucleotide sugar metabolism,1,0,1,0,0,1,0,0
+Aminoacyl-tRNA biosynthesis,8,3,3,2,3,3,1,0
+Aminobenzoate degradation,2,0,3,1,1,1,1,1
+Amphetamine addiction,2,1,1,0,1,1,0,0
+Amyotrophic lateral sclerosis,1,1,0,0,0,1,0,0
+Arginine and proline metabolism,3,4,1,0,1,2,0,2
+Arginine biosynthesis,3,1,0,0,1,2,0,0
+Ascorbate and aldarate metabolism,1,1,1,1,1,0,0,1
+Bacterial chemotaxis,1,0,0,0,0,0,0,0
+Benzoate degradation,3,0,3,1,1,1,1,1
+Betalain biosynthesis,1,0,1,0,1,0,0,0
+Bile secretion,2,0,2,0,1,1,0,0
+Biofilm formation - Vibrio cholerae,1,0,1,0,0,1,0,0
+Biosynthesis of alkaloids derived from histidine and purine,3,0,2,0,0,1,0,0
+"Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid",5,3,2,1,2,2,1,1
+Biosynthesis of alkaloids derived from shikimate pathway,5,1,4,0,4,1,0,1
+Biosynthesis of alkaloids derived from terpenoid and polyketide,2,0,1,0,0,0,0,0
+Biosynthesis of amino acids,10,3,4,2,4,4,1,0
+Biosynthesis of cofactors,8,2,2,1,2,1,0,0
+Biosynthesis of enediyne antibiotics,1,0,1,0,1,0,0,0
+Biosynthesis of nucleotide sugars,0,1,0,0,0,0,0,1
+Biosynthesis of phenylpropanoids,2,0,2,0,1,0,0,0
+Biosynthesis of plant hormones,3,0,2,0,1,0,0,0
+Biosynthesis of plant secondary metabolites,12,4,6,2,6,4,1,1
+Biosynthesis of secondary metabolites,15,6,11,3,7,6,1,5
+Biosynthesis of terpenoids and steroids,2,0,3,0,2,0,0,0
+Biosynthesis of unsaturated fatty acids,0,0,2,0,0,0,1,0
+Biosynthesis of vancomycin group antibiotics,1,0,1,0,1,0,0,0
+Biosynthesis of various alkaloids,2,0,2,0,2,1,0,1
+Biosynthesis of various antibiotics,6,1,2,1,2,2,0,0
+Biosynthesis of various other secondary metabolites,8,2,4,2,3,3,1,0
+Biosynthesis of various plant secondary metabolites,3,0,2,0,2,0,0,0
+Biotin metabolism,1,1,0,1,0,0,1,0
+Butanoate metabolism,5,2,4,0,0,1,0,2
+C5-Branched dibasic acid metabolism,2,1,2,0,0,1,0,1
+Caffeine metabolism,0,0,1,0,0,0,0,1
+Carbapenem biosynthesis,1,1,0,0,0,1,0,0
+Carbohydrate digestion and absorption,1,0,3,1,0,1,0,3
+Carbon fixation in photosynthetic organisms,3,0,2,0,0,1,0,0
+Carbon fixation pathways in prokaryotes,2,0,3,0,0,0,0,1
+Carbon metabolism,9,1,7,1,0,2,0,1
+Central carbon metabolism in cancer,10,2,5,1,3,4,0,0
+Chemical carcinogenesis - reactive oxygen species,1,1,1,1,0,0,0,1
+Chloroalkane and chloroalkene degradation,2,0,2,0,0,0,0,0
+Chlorocyclohexane and chlorobenzene degradation,2,0,2,1,0,0,1,0
+Cholinergic synapse,1,0,2,0,1,0,0,1
+Circadian entrainment,1,1,0,0,0,1,0,0
+Citrate cycle (TCA cycle),1,0,1,0,0,0,0,0
+Cocaine addiction,2,1,1,0,1,1,0,0
+"Cutin, suberine and wax biosynthesis",0,0,1,0,0,0,0,0
+Cyanoamino acid metabolism,5,1,2,1,3,0,0,0
+Cysteine and methionine metabolism,4,0,2,1,0,1,0,0
+D-Amino acid metabolism,7,4,3,2,2,3,1,1
+Degradation of aromatic compounds,9,2,9,1,3,1,2,5
+Degradation of flavonoids,2,1,1,0,1,0,1,0
+Diabetic cardiomyopathy,2,0,2,0,0,1,0,0
+Dioxin degradation,2,0,2,1,1,1,1,1
+Dopaminergic synapse,1,0,1,0,1,0,0,0
+Efferocytosis,2,1,1,0,1,2,0,1
+Ethylbenzene degradation,0,0,1,0,0,0,0,1
+Fatty acid biosynthesis,1,0,0,0,0,0,0,0
+Fatty acid degradation,0,1,0,0,0,0,0,0
+Ferroptosis,1,1,0,0,0,1,0,0
+Fluorobenzoate degradation,0,0,0,1,0,0,1,0
+FoxO signaling pathway,2,1,1,0,0,2,0,0
+Fructose and mannose metabolism,0,1,0,0,0,0,0,0
+GABAergic synapse,1,1,0,0,0,1,0,0
+Galactose metabolism,1,2,1,1,0,1,0,1
+Gap junction,1,1,0,0,0,1,0,0
+Gastric acid secretion,1,0,1,0,1,0,0,0
+Glucagon signaling pathway,2,0,2,0,0,1,0,0
+Glucosinolate biosynthesis,4,1,2,0,3,1,0,0
+Glutamatergic synapse,1,1,0,0,0,1,0,0
+Glutathione metabolism,2,2,0,0,1,2,0,1
+Glycerophospholipid metabolism,2,0,1,1,1,0,0,0
+"Glycine, serine and threonine metabolism",4,0,2,1,1,0,0,0
+Glycolysis / Gluconeogenesis,2,1,3,1,0,1,0,2
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,0,0,1,0,0,0,0,1
+Glyoxylate and dicarboxylate metabolism,5,1,4,1,0,1,0,1
+HIF-1 signaling pathway,2,0,2,0,0,1,0,0
+Histidine metabolism,2,1,0,0,0,1,0,0
+Huntington disease,1,1,0,0,0,1,0,0
+Indole alkaloid biosynthesis,2,0,2,0,0,1,0,0
+Inflammatory mediator regulation of TRP channels,0,1,0,1,0,0,0,1
+Inositol phosphate metabolism,0,1,0,0,1,0,0,1
+Insulin resistance,2,0,2,0,0,1,0,0
+Insulin secretion,3,0,3,0,1,1,0,0
+Insulin signaling pathway,1,0,1,0,0,1,0,0
+Isoquinoline alkaloid biosynthesis,1,0,1,0,1,0,0,0
+Lipoic acid metabolism,2,0,1,0,0,0,0,0
+Long-term depression,1,1,0,0,0,1,0,0
+Long-term potentiation,1,1,0,0,0,1,0,0
+Lysine biosynthesis,1,1,0,1,0,0,1,0
+Lysine degradation,0,3,0,1,0,0,1,0
+Meiosis - yeast,1,0,1,0,0,1,0,0
+Melanogenesis,1,0,1,0,1,0,0,0
+Metabolic pathways,31,16,24,6,13,7,4,13
+Methane metabolism,6,0,6,1,1,0,0,1
+Microbial metabolism in diverse environments,17,9,15,4,4,4,3,7
+Mineral absorption,6,1,3,1,2,3,0,0
+Monobactam biosynthesis,4,0,2,1,1,0,0,0
+Naphthalene degradation,0,0,0,1,0,0,1,0
+"Neomycin, kanamycin and gentamicin biosynthesis",2,1,1,0,0,2,0,0
+Neuroactive ligand-receptor interaction,3,1,1,0,1,1,0,0
+Nicotinate and nicotinamide metabolism,2,0,2,0,0,0,0,1
+Nicotine addiction,2,1,1,0,1,1,0,0
+Nitrogen metabolism,2,1,1,0,0,1,0,0
+Nitrotoluene degradation,1,0,1,0,0,0,0,0
+Non-alcoholic fatty liver disease,1,0,1,0,0,1,0,0
+Novobiocin biosynthesis,1,0,1,0,1,0,0,0
+Pancreatic secretion,1,0,1,0,1,0,0,0
+Pantothenate and CoA biosynthesis,3,1,1,0,1,0,0,0
+Parkinson disease,1,0,1,0,1,0,0,0
+Pathways of neurodegeneration - multiple diseases,2,1,1,0,1,1,0,0
+Penicillin and cephalosporin biosynthesis,1,1,0,0,1,0,0,0
+Pentose and glucuronate interconversions,1,0,1,1,0,0,0,0
+Pentose phosphate pathway,2,0,2,0,0,1,0,0
+Phenylalanine metabolism,7,1,6,0,5,1,1,2
+"Phenylalanine, tyrosine and tryptophan biosynthesis",2,0,2,0,2,0,0,0
+Phenylpropanoid biosynthesis,2,0,2,0,2,0,0,0
+Phosphatidylinositol signaling system,0,1,0,0,1,0,0,1
+Phospholipase D signaling pathway,1,1,0,0,0,1,0,0
+Phosphonate and phosphinate metabolism,2,1,3,0,0,0,0,1
+Phosphotransferase system (PTS),2,1,2,1,0,1,0,0
+Polycyclic aromatic hydrocarbon degradation,0,0,0,1,0,0,1,0
+Porphyrin metabolism,1,1,0,0,0,1,0,0
+Prolactin signaling pathway,2,0,2,0,1,1,0,0
+Propanoate metabolism,1,1,3,0,0,0,0,3
+Protein digestion and absorption,11,4,8,2,3,3,1,4
+Proximal tubule bicarbonate reclamation,1,1,0,0,0,1,0,0
+Pyrimidine metabolism,0,0,1,0,0,0,0,1
+Pyruvate metabolism,2,1,3,1,0,0,0,2
+Regulation of actin cytoskeleton,1,0,1,0,1,0,0,0
+Retrograde endocannabinoid signaling,1,1,0,0,0,1,0,0
+Salivary secretion,1,0,1,0,1,0,0,0
+Selenocompound metabolism,1,0,1,0,0,1,0,0
+Shigellosis,1,0,0,0,0,1,0,0
+Sphingolipid metabolism,1,0,0,1,0,0,0,0
+Sphingolipid signaling pathway,1,0,0,1,0,0,0,0
+Spinocerebellar ataxia,1,1,0,0,0,1,0,0
+Starch and sucrose metabolism,1,0,1,0,0,1,0,0
+Steroid biosynthesis,1,0,2,0,2,0,0,0
+Streptomycin biosynthesis,1,1,1,0,0,1,0,1
+Styrene degradation,2,0,2,0,1,1,0,0
+Sulfur metabolism,1,0,1,1,0,0,0,1
+Sulfur relay system,1,0,1,0,0,1,0,0
+Synaptic vesicle cycle,2,1,1,0,1,1,0,0
+Taste transduction,3,1,2,0,1,2,0,0
+Taurine and hypotaurine metabolism,3,1,3,0,0,2,0,1
+Terpenoid backbone biosynthesis,1,0,1,0,0,0,0,0
+Thiamine metabolism,2,0,2,0,1,0,0,0
+Toluene degradation,2,0,2,0,1,1,0,1
+"Tropane, piperidine and pyridine alkaloid biosynthesis",1,2,1,1,1,0,1,1
+Two-component system,3,1,1,0,0,2,0,0
+Type II diabetes mellitus,2,0,2,0,0,1,0,0
+Tyrosine metabolism,5,0,5,0,3,1,2,0
+Ubiquinone and other terpenoid-quinone biosynthesis,1,0,1,0,1,0,0,0
+"Valine, leucine and isoleucine biosynthesis",3,1,1,0,1,1,0,0
+"Valine, leucine and isoleucine degradation",2,1,1,0,1,1,0,1
+Vancomycin resistance,3,0,2,1,0,1,0,0
+Xylene degradation,2,0,1,0,0,0,0,0
+Zeatin biosynthesis,0,0,1,0,0,0,0,1
+beta-Alanine metabolism,1,0,0,0,0,0,0,0
+cAMP signaling pathway,1,0,1,0,1,0,0,0
+mTOR signaling pathway,1,0,0,0,0,1,0,0

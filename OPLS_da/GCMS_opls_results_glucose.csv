@@ -1,0 +1,50 @@
+FeatureID,comp_abundance,VIP
+"1,4-D-xylobiose",Surface_abundant,1.037965434257936
+1-Deoxypentitol NIST,Surface_abundant,1.099977470419109
+1-Monopalmitin NIST,Deep_abundant,1.2169282720745123
+2-hydroxypyridine,Deep_abundant,1.4524752049081828
+2-methyl-3-hydroxybutyric acid,Deep_abundant,1.44580521927738
+2-Trimethylsilyloxysebacic acid NIST,Deep_abundant,1.270815947775367
+"3,5-Dihydroxybenzoic acid NIST",Surface_abundant,1.2474121617165255
+3-3-hydroxyphenylpropionic acid,Surface_abundant,1.5109236019692698
+3-4-hydroxyphenylpropionic acid,Surface_abundant,1.5016727890401338
+3-hydroxypyridine,Deep_abundant,1.5519567226790565
+4-guanidinobutyric acid,Surface_abundant,1.4242180149474422
+4-hydroxycyclohexanecarboxylic acid cis,Surface_abundant,1.374320789409219
+arachidic acid,Deep_abundant,1.552439663281526
+Azelaic acid NIST,Surface_abundant,1.5172131223927754
+behenic acid,Deep_abundant,1.4600356148743332
+beta-Alanine NIST,Deep_abundant,1.3578890560346006
+capric acid,Surface_abundant,1.0671192495633313
+carbonate ion NIST,Deep_abundant,1.542750601433081
+cycloleucine,Surface_abundant,1.1159222949107765
+D-gluconic acid,Surface_abundant,1.0643234870757317
+D-lyxose,Deep_abundant,1.0504289713400636
+Dodecanedioic acid NIST,Surface_abundant,1.5297095686277107
+D-ribose,Surface_abundant,1.5387032337622664
+fumaric acid,Deep_abundant,1.4617941048867085
+glycerol,Surface_abundant,1.0862152712991209
+Glycerol monostearate NIST,Deep_abundant,1.240052096965182
+glycolic acid,Deep_abundant,1.4747092618105637
+Hexacosanoic acid NIST,Deep_abundant,1.180990636043576
+Hexanoic acid NIST,Surface_abundant,1.1108346796095316
+lactic acid,Deep_abundant,1.5871049292306387
+lactose,Surface_abundant,1.0350535739443374
+Lignoceric acid NIST,Deep_abundant,1.386037444430315
+L-mimosine,Deep_abundant,1.2896355791102858
+L-serine,Deep_abundant,1.18056601826186
+Methylsuccinic acid NIST,Deep_abundant,1.1322264392916308
+n-Butylamine NIST,Surface_abundant,1.5764316355283243
+Octadecanenitrile NIST,Deep_abundant,1.1563324562075468
+palmitic acid,Deep_abundant,1.434671850465257
+phenylethylamine,Surface_abundant,1.500387567386017
+phosphoric acid,Surface_abundant,1.194179313633341
+pimelic acid,Surface_abundant,1.1296928872088274
+porphine,Deep_abundant,1.5916772921852136
+putrescine,Surface_abundant,1.5414706774604205
+sebasic acid,Surface_abundant,1.5469118050434658
+Serratene NIST,Deep_abundant,1.4270566532471405
+stearic acid,Deep_abundant,1.5276681386877007
+tagatose,Surface_abundant,1.4487956531527602
+Tricarballylic acid NIST,Surface_abundant,1.394096499094918
+Tricosanoic acid NIST,Deep_abundant,1.14002776243686

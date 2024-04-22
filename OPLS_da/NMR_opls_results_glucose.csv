@@ -1,0 +1,18 @@
+FeatureID,comp_abundance,VIP
+Acetate,Deep_abundant,1.0220536651790093
+Acetone,Deep_abundant,1.1606130521758145
+Benzoate,Deep_abundant,1.3419863147598328
+Butyrate,Deep_abundant,1.2777403721047813
+Formate,Deep_abundant,1.3241328935640047
+Glycolate,Deep_abundant,1.1530218433479282
+Lactate,Deep_abundant,1.108495685391667
+Methanol,Deep_abundant,1.2520543515720781
+Phenol,Surface_abundant,1.4690766903578083
+Phenylalanine,Deep_abundant,1.3419863147598328
+Propyl alcohol,Deep_abundant,1.0314351720501114
+Propylene glycol,Deep_abundant,1.3419863147598328
+Trimethylamine,Surface_abundant,1.4296204701025184
+Valerate,Surface_abundant,1.3025909638266857
+Valproate,Surface_abundant,1.1848871336037048
+p-Cresol,Surface_abundant,1.4685341389239346
+DSS-d6,Deep_abundant,1.338786441083556

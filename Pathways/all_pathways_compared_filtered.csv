@@ -1,0 +1,16 @@
+KEGG_pathway,deep_Control abundant_initial,deep_Control abundant_final,deep_Glucose abundant_initial,deep_Glucose abundant_final,surface_Control abundant_final,surface_Control abundant_initial,surface_Glucose abundant_final,surface_Glucose abundant_initial
+Tyrosine metabolism,5,0,0,5,0,3,1,2
+Degradation of aromatic compounds,9,2,5,9,1,3,1,2
+Phenylalanine metabolism,7,1,2,6,0,5,1,1
+Carbon metabolism,9,1,1,7,1,0,2,0
+Methane metabolism,6,0,1,6,1,1,0,0
+Butanoate metabolism,5,2,2,4,0,0,1,0
+Glyoxylate and dicarboxylate metabolism,5,1,1,4,1,0,1,0
+Benzoate degradation,3,0,1,3,1,1,1,1
+Aminobenzoate degradation,2,0,1,3,1,1,1,1
+Glycolysis / Gluconeogenesis,2,1,2,3,1,0,1,0
+Taurine and hypotaurine metabolism,3,1,1,3,0,0,2,0
+Pyruvate metabolism,2,1,2,3,1,0,0,0
+Propanoate metabolism,1,1,3,3,0,0,0,0
+Carbohydrate digestion and absorption,1,0,3,3,1,0,1,0
+Toluene degradation,2,0,1,2,0,1,1,0

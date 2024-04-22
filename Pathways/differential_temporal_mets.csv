@@ -1,0 +1,195 @@
+FeatureID,Log2FC,time,comparison
+1-Eicosanol NIST,-1.5839192274515566,initial,gcms_surface
+1-Monopalmitin NIST,1.5805755593236384,initial,gcms_surface
+1-Tetracosanol NIST,-2.138673814312669,initial,gcms_surface
+4-2-hydroxyethylphenol  tyrosol,1.4260602138174863,initial,gcms_surface
+4-hydroxycyclohexanecarboxylic acid cis,1.3234793100223643,initial,gcms_surface
+4-hydroxyphenylacetic acid,1.1329610865488637,initial,gcms_surface
+beta-Sitosterol NIST,-1.952417080852337,initial,gcms_surface
+carbonate ion NIST,-7.3408669431936895,initial,gcms_surface
+catechol,3.5424865400925665,initial,gcms_surface
+cycloleucine,-1.4210133778746532,initial,gcms_surface
+D-galactaric acid,-1.9965140309033902,initial,gcms_surface
+D-glucuronic acidM,-1.211149783548887,initial,gcms_surface
+D-lyxosylamine NIST,-10.364799522736824,initial,gcms_surface
+Docosanol NIST,1.386914562046469,initial,gcms_surface
+fructose,-1.206192810694543,initial,gcms_surface
+glycerol 3-phosphate,1.2668506273120272,initial,gcms_surface
+Glyceryl-glycoside NIST,1.5805292222253333,initial,gcms_surface
+Heptanoic acid NIST,2.588181039067282,initial,gcms_surface
+hydrocinnamic acid,-1.1337047685380086,initial,gcms_surface
+lactic acid,-1.5603260223277824,initial,gcms_surface
+Lignoceric acid NIST,2.0449163504931187,initial,gcms_surface
+L-lysine,2.0670675440539426,initial,gcms_surface
+L-ornithine,-1.8498762770548385,initial,gcms_surface
+L-tyrosine,-1.4703438577256442,initial,gcms_surface
+L-valine,-1.1620059925890356,initial,gcms_surface
+Myo-Inositol phosphate NIST,-1.1677658294823627,initial,gcms_surface
+orcinol,-7.664149266611478,initial,gcms_surface
+Serratene NIST,-2.541065917915062,initial,gcms_surface
+Stigmasterol NIST,-5.092698205959569,initial,gcms_surface
+3-Hydroxyphenylacetate,-1.207478534452021,initial,NMR_surface
+4-Hydroxyphenylacetate,-3.230402956436746,initial,NMR_surface
+Benzoate,-5.085664736154237,initial,NMR_surface
+Betaine,-2.571446134819405,initial,NMR_surface
+Fructose,-2.3780633277098,initial,NMR_surface
+O-Acetylcholine,-2.473811399294523,initial,NMR_surface
+Phenylalanine,-3.5956398040052333,initial,NMR_surface
+4-hydroxycyclohexanecarboxylic acid cis,-1.6655376609161472,final,gcms_surface
+carbonate ion NIST,6.318401839502034,final,gcms_surface
+catechol,-1.632188864023369,final,gcms_surface
+D-galactaric acid,-1.457854008242395,final,gcms_surface
+D-lyxose,-1.3069740190781514,final,gcms_surface
+D-lyxosylamine NIST,1.811823690254815,final,gcms_surface
+fructose,1.9308068593780077,final,gcms_surface
+Glycerol monostearate NIST,1.0886895338177394,final,gcms_surface
+Glyceryl-glycoside NIST,-7.119359320931645,final,gcms_surface
+Hexacosanoic acid NIST,1.0006745389794045,final,gcms_surface
+lactose,-7.424397756302532,final,gcms_surface
+L-glutamic acid,1.262763852196589,final,gcms_surface
+L-leucine,1.672350389377064,final,gcms_surface
+L-lysine,-2.239161477207002,final,gcms_surface
+L-ornithine,6.263849461835094,final,gcms_surface
+L-serine,-1.1025341072581556,final,gcms_surface
+Octacosanoic acid NIST,-2.389033599264078,final,gcms_surface
+Tricosanoic acid NIST,1.5334566023079728,final,gcms_surface
+3-Hydroxyphenylacetate,1.512845783608069,final,NMR_surface
+Alanine,1.0878599989641011,final,NMR_surface
+Benzoate,5.569672969316206,final,NMR_surface
+Ethanol,-1.2782287972780193,final,NMR_surface
+Glucose,4.8890223526373395,final,NMR_surface
+Isocaproate,-1.2042000867776816,final,NMR_surface
+1-Hexacosanol NIST,-2.0042021388752373,initial,gcms_deep
+1-Tetracosanol NIST,-3.0085532500753507,initial,gcms_deep
+3-3-hydroxyphenylpropionic acid,-3.8735777446236836,initial,gcms_deep
+3-4-hydroxyphenylpropionic acid,-6.35505344194197,initial,gcms_deep
+3-hydroxybutyric acid,1.1179285267370123,initial,gcms_deep
+4-guanidinobutyric acid,1.630886868008889,initial,gcms_deep
+5-Trimethylsilyloxy-n-valeric acid NIST,1.0045782971241743,initial,gcms_deep
+benzoic acid,1.6150324958086775,initial,gcms_deep
+beta-Sitosterol NIST,-1.227372353746322,initial,gcms_deep
+caprylic acid,-1.2497400638699125,initial,gcms_deep
+D-glucuronic acidM,-1.7518974407245558,initial,gcms_deep
+DL-3-aminoisobutyric acid,1.6252464171034193,initial,gcms_deep
+Docosanol NIST,-1.1129776050588573,initial,gcms_deep
+Hexacosanoic acid NIST,-1.251968654953914,initial,gcms_deep
+hydrocinnamic acid,3.4824238032783055,initial,gcms_deep
+L-Aspartic acid NIST,-2.413828324113419,initial,gcms_deep
+L-glutamic acid,-1.1442389370247625,initial,gcms_deep
+L-glutamic acid dehydrated,-1.2778664601757543,initial,gcms_deep
+L-leucine,-2.4417092146515516,initial,gcms_deep
+L-ornithine,-8.045804571353512,initial,gcms_deep
+L-serine,-1.4853707722969864,initial,gcms_deep
+L-threonineM,-1.9356090804369748,initial,gcms_deep
+L-tyrosine,-2.1914390218028363,initial,gcms_deep
+L-valine,-1.77893382906277,initial,gcms_deep
+methylmalonic acid,1.29228737074988,initial,gcms_deep
+myo-inositol,4.85993348406826,initial,gcms_deep
+Octacosanoic acid NIST,-1.8476083316844816,initial,gcms_deep
+phenylethylamine,1.0645897109595945,initial,gcms_deep
+pimelic acid,-4.693563169779521,initial,gcms_deep
+p-Toluic acid NIST,-6.348173916012359,initial,gcms_deep
+putrescine,1.8717105818288478,initial,gcms_deep
+Serratene NIST,-1.1487709813106424,initial,gcms_deep
+Tricosanoic acid NIST,-2.3687135204350316,initial,gcms_deep
+1-Eicosanol NIST,2.138674199324476,final,gcms_deep
+1-Tetracosanol NIST,1.7292637336901246,final,gcms_deep
+3-3-hydroxyphenylpropionic acid,-1.0041576252802549,final,gcms_deep
+3-4-hydroxyphenylpropionic acid,-1.6678328596609475,final,gcms_deep
+4-guanidinobutyric acid,-1.6179467405145591,final,gcms_deep
+4-hydroxy-3-methoxybenzoic acid,2.295116927932817,final,gcms_deep
+5-aminovaleric acid 1,-2.2826609385947276,final,gcms_deep
+behenic acid,1.0446677068651813,final,gcms_deep
+beta-Sitosterol NIST,1.8820620538474513,final,gcms_deep
+carbonate ion NIST,9.83916677909636,final,gcms_deep
+ciliatine,-1.5411383475137408,final,gcms_deep
+cycloleucine,-1.2349789321850047,final,gcms_deep
+DL-3-aminoisobutyric acid,-1.5925961520026513,final,gcms_deep
+D-mannitol,-1.0207684948066267,final,gcms_deep
+Docosanol NIST,1.3274994031322334,final,gcms_deep
+Dodecanedioic acid NIST,1.930087632456378,final,gcms_deep
+fructose,-2.143464384614422,final,gcms_deep
+Hexacosanoic acid NIST,1.8181085483070474,final,gcms_deep
+Hexanoic acid NIST,-1.2939972059726703,final,gcms_deep
+L-glutamic acid,-2.2495159500120994,final,gcms_deep
+Lignoceric acid NIST,1.4911812826131128,final,gcms_deep
+L-lysine,-3.4899701517139516,final,gcms_deep
+L-threonineM,-1.0943277139904584,final,gcms_deep
+L-tyrosine,1.2008200900569166,final,gcms_deep
+L-valine,-1.3876855710469627,final,gcms_deep
+methylmalonic acid,1.758341627989616,final,gcms_deep
+myo-inositol,-5.626200843358625,final,gcms_deep
+Octacosanoic acid NIST,1.892233936541976,final,gcms_deep
+Octadecanenitrile NIST,1.4127764101249578,final,gcms_deep
+palatinose,-2.68160853426135,final,gcms_deep
+Pentacosanoic acid NIST,1.5473559158838155,final,gcms_deep
+Pentanedioic acid NIST,-1.6402655565533324,final,gcms_deep
+putrescine,-1.6732986450623688,final,gcms_deep
+Serratene NIST,1.588371222312428,final,gcms_deep
+Stigmasterol NIST,2.1025482233509303,final,gcms_deep
+tagatose,-1.3127102425698771,final,gcms_deep
+talose,-1.257267572843784,final,gcms_deep
+Tricosanoic acid NIST,1.6279568712147063,final,gcms_deep
+1-Butanol,2.0853653484265533,initial,NMR_deep
+"3,7-Dimethyluric acid",1.1278876304528083,initial,NMR_deep
+3-Hydroxyphenylacetate,-2.7559083929365102,initial,NMR_deep
+4-Hydroxyphenylacetate,-2.7559083929365102,initial,NMR_deep
+Acetate,3.3396393290429343,initial,NMR_deep
+Acetone,-2.831984465385004,initial,NMR_deep
+Alanine,-2.7559083929365102,initial,NMR_deep
+Benzoate,-2.7559083929365102,initial,NMR_deep
+Betaine,-2.7559083929365102,initial,NMR_deep
+Butyrate,3.2177876182209366,initial,NMR_deep
+Ethanol,7.958103256074994,initial,NMR_deep
+Formate,-3.404553729458093,initial,NMR_deep
+Fructose,-2.7559083929365102,initial,NMR_deep
+Glucose,-2.7559083929365102,initial,NMR_deep
+Glycolate,-4.611555168470748,initial,NMR_deep
+Isocaproate,-2.3102021219714812,initial,NMR_deep
+Isopropanol,-1.8472423449752087,initial,NMR_deep
+Isovalerate,-2.7824592991184707,initial,NMR_deep
+Lactate,-4.275262563980244,initial,NMR_deep
+Methanol,-2.935444133051632,initial,NMR_deep
+O-Acetylcholine,-2.7559083929365102,initial,NMR_deep
+Phenol,-2.7559083929365102,initial,NMR_deep
+Phenylacetate,-2.763496357655377,initial,NMR_deep
+Phenylalanine,-2.7559083929365102,initial,NMR_deep
+Propionate,4.889460583471797,initial,NMR_deep
+Propyl alcohol,5.771168514153589,initial,NMR_deep
+Propylene glycol,-4.64519907965919,initial,NMR_deep
+Pyruvate,-3.5808544889725993,initial,NMR_deep
+Trimethylamine,-2.7559083929365102,initial,NMR_deep
+Valerate,-2.554918027525273,initial,NMR_deep
+p-Cresol,-2.7559083929365102,initial,NMR_deep
+DSS-d6,-2.7180580705588837,initial,NMR_deep
+1-Butanol,-1.6271574060953293,final,NMR_deep
+"3,7-Dimethyluric acid",2.9539837625853176,final,NMR_deep
+3-Hydroxyphenylacetate,3.8701955744364103,final,NMR_deep
+4-Hydroxyphenylacetate,3.8701955744364103,final,NMR_deep
+Acetate,2.4675460540379452,final,NMR_deep
+Acetone,4.015688105600391,final,NMR_deep
+Alanine,3.8701955744364103,final,NMR_deep
+Benzoate,3.8701955744364103,final,NMR_deep
+Betaine,3.8701955744364103,final,NMR_deep
+Ethanol,-6.505283874818752,final,NMR_deep
+Formate,4.501507260391533,final,NMR_deep
+Fructose,3.8701955744364103,final,NMR_deep
+Glucose,3.8701955744364103,final,NMR_deep
+Glycolate,5.249774147338851,final,NMR_deep
+Isocaproate,2.970578753730645,final,NMR_deep
+Isopropanol,3.4884847395318572,final,NMR_deep
+Isovalerate,4.028661931098445,final,NMR_deep
+Lactate,3.023315835922527,final,NMR_deep
+Methanol,3.838622802342519,final,NMR_deep
+O-Acetylcholine,3.8701955744364103,final,NMR_deep
+Phenol,3.8701955744364103,final,NMR_deep
+Phenylacetate,1.7248058598117908,final,NMR_deep
+Phenylalanine,3.8701955744364103,final,NMR_deep
+Propionate,1.3288615145331857,final,NMR_deep
+Propyl alcohol,-5.950169182221678,final,NMR_deep
+Propylene glycol,3.8701955744364103,final,NMR_deep
+Pyruvate,3.8701955744364103,final,NMR_deep
+Trimethylamine,3.8701955744364103,final,NMR_deep
+Valproate,2.7912160992607453,final,NMR_deep
+p-Cresol,3.8701955744364103,final,NMR_deep
+DSS-d6,3.861878577463219,final,NMR_deep
